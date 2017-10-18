@@ -1,6 +1,6 @@
 # liferay-france-elk-audit
 
-Configuration files to plug standard audit feature of Liferay on ELK stack
+Configuration files to plug standard audit feature of Liferay DXP on ELK stack
 
 Tested on :
 * Logstash 5.6.2
